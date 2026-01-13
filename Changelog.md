@@ -6,6 +6,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ---
 
+## 3.0.0 - 2026-01-13
+
+### Added
+
+- App for *auto grading* of *Task 5* for MazeSolver Bot theme, tested on Windows 10, 11, Ubuntu 22.04 and Ubuntu 24.04.
+
+### Removed
+
+- All EB Theme grader apps.
+
+<br />
+
+---
+
+
+---
+
 ## 2.1.0 - 2025-02-16
 
 ### Added

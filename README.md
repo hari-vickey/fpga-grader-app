@@ -11,32 +11,23 @@ This repository contains the binaries of ***Grader App*** for ***FPGA*** Theme i
 The Grader App has been tested **only** on the following **64 bit OS**:
 
 - ***Windows 10 and 11***
-- ***Ubuntu 22.04***
+- ***Ubuntu 22.04 and 24.04***
 
 ## Description
 
 Following are the contents:
 
 
-- **EB Theme:** *task6_grader_app* - This folder consists the binary files of ***Task 6*** Grader App for **Linux** and **Windows** OS.
+- **MB Theme:** *task5_grader_app* - This folder consists the binary files of ***Task 5*** Grader App for **Linux** and **Windows** OS.
 
-  - **[v2.1.0](https://github.com/hari-vickey/fpga-theme-grader-app/releases/tag/v2.1.0)**
-    - **`eb-gui-linux.zip`**
-    - **`eb-gui-windows.zip`**
+  - **[v3.0.0](https://github.com/eYantra-Robotics-Competition/fpga-theme-grader-app/releases/tag/v3.0.0)**
+    - **`mb-gui-linux.zip`**
+    - **`mb-gui-windows.zip`**
 
-- **EB Theme:** *task5_grader_app* - This folder consists the binary files of ***Task 5*** Grader App for **Linux** and **Windows** OS.
-
-  - **[v2.0.1](https://github.com/hari-vickey/fpga-theme-grader-app/releases/tag/v2.0.1)**
-    - **`eb-gui-2.0.1.AppImage`**
-    - **`eb-gui-2.0.1.exe`**
-
-  - **[v2.0.0](https://github.com/hari-vickey/fpga-theme-grader-app/releases/tag/v2.0.0)**
-    - **`eb-gui-2.0.0.AppImage`**
-    - **`eb-gui-2.0.0.exe`**
 
 ## Releases
 
-Checkout [this](https://github.com/hari-vickey/fpga-theme-grader-app/releases/latest) page to get the latest release of Grader App.
+Checkout [this](https://github.com/eYantra-Robotics-Competition/fpga-theme-grader-app/releases/latest) page to get the latest release of Grader App.
 
 ## Changelog
 
@@ -44,10 +35,10 @@ Refer the [Changelog](Changelog.md) to know more on the recent updates and versi
 
 ## Bug or Issue Filing
 
-Refer the [reference template](.github/ISSUE_TEMPLATE/bug_report.md) for filing an [Issue](https://github.com/hari-vickey/fpga-theme-grader-app/issues).
+Refer the [reference template](.github/ISSUE_TEMPLATE/bug_report.md) for filing an [Issue](https://github.com/eYantra-Robotics-Competition/fpga-theme-grader-app/issues).
 
 ## Contributors
-
+- MazeSolver Bot (MB) Theme Developers
 - EcoMender Bot (EB) Theme Developers
 - AstroTinker Bot (AB) Theme Developers
 - e-Yantra Team
@@ -58,4 +49,4 @@ Refer the [reference template](.github/ISSUE_TEMPLATE/bug_report.md) for filing 
 
 ## Copyright
 
-&copy; e-Yantra 2023-24
+&copy; e-Yantra 2023-26
