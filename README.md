@@ -20,6 +20,10 @@ Following are the contents:
 
 - **MB Theme:** *task5_grader_app* - This folder consists the binary files of ***Task 5*** Grader App for **Linux** and **Windows** OS.
 
+  - **[v3.0.1](https://github.com/eYantra-Robotics-Competition/fpga-theme-grader-app/releases/tag/v3.0.1)**
+      - **`mb-gui-linux-v3.0.1.zip`**
+      - **`mb-gui-windows-v3.0.1.zip`**
+
   - **[v3.0.0](https://github.com/eYantra-Robotics-Competition/fpga-theme-grader-app/releases/tag/v3.0.0)**
     - **`mb-gui-linux.zip`**
     - **`mb-gui-windows.zip`**
