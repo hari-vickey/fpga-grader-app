@@ -17,6 +17,12 @@ The Grader App has been tested **only** on the following **64 bit OS**:
 
 Following are the contents:
 
+- **MB Theme:** *task6_grader_app* - This folder consists the binary files of ***Task 6*** Grader App for **Linux** and **Windows** OS.
+
+  - **[v3.1.0](https://github.com/eYantra-Robotics-Competition/fpga-theme-grader-app/releases/tag/v3.1.0)**
+      - **`mb-gui-linux-v3.1.0.zip`**
+      - **`mb-gui-windows-v3.1.0.zip`**
+      
 
 - **MB Theme:** *task5_grader_app* - This folder consists the binary files of ***Task 5*** Grader App for **Linux** and **Windows** OS.
 
